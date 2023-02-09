@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+    <script type="text/javascript" src="js/principal.js"></script>
+</head>
+<body>
+    <header>
+        <h1 id="titulo">Calculadora</h1><hr><br>
+    </header>
+      <main>
+        <form action="">
+            <label for="n1">Numero 1: </label>
+            <input type="number" name="" id="txtN1" placeholder="introducir primer numero: "><br><br>
+            <label for="n2">Numero 2: </label>
+            <input type="number" name="" id="txtN2" placeholder="introducir segundo numero: "><br><br>
+            <select name="" id="opcion">
+                <option value="1">Suma</option>
+                <option value="2">Resta</option>
+                <option value="3">Multiplicación</option>
+                <option value="4">División</option>
+            </select><br><br>
+             <button onclick="calcular()" id="calc">Calcular</button>
+            <div id="respuesta">
+                <h2 id="res"></h2>
+            </div>
+            
+         </form>
+      </main>
+    
+        <footer>     
+        </footer>
+</body>
+</html>
