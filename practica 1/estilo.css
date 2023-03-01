@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+      background-image: url(img/pattern2.png);
+      background-attachment: fixed;
+}
+p{
+
+}
+#header{
+    position: fixed;
+    display: inline-block;
+    height:10%;
+    width:100%;
+    background-color:rgba(25, 74, 95, 0.5);
+    margin-bottom: 10px;
+    
+}
+#barra{
+    
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 18%;
+    width:60%;
+    height: 60px;
+    border:1px solid red;    
+    background: url(img/pattern1.png);
+    background-size:50%;
+    opacity: 85%;
+ 
+ }
+#header h1{
+    color:white;
+    text-align: center;
+}
+
+#barra ul{
+    list-style: none;
+    overflow: hidden; /* Limpiamos errores de float */
+}
+#barra ul li{
+    display: inline-block;
+    padding:15px;
+}
+#barra ul li a{ 
+    display: block; /* Convertimos los elementos a en elementos bloque para manipular el padding */
+    color:white;
+    text-decoration: none;
+    padding-left:20px;
+}
+#barra ul li:hover{
+    background-color: rgb(38, 139, 90); 
+}
+#barra ul li:hover a{
+    color:rgba(180, 176, 182, .75)
+}
+.clearfix{
+    float: none;
+   clear: both;
+}
+.texto{ 
+    
+ /*   border: 5px solid red; */
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size:25px;
+    text-align: justify;
+    padding-top: 120px;
+    padding-bottom:10px;
+    margin-right: 80px;
+    margin-left: 80px;
+    color:rgb(58, 56, 56);
+    text-shadow:rgb(111, 111, 221) 0px 2px;
+}
