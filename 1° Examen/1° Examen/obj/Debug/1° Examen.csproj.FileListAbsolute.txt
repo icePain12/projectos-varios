@@ -1,0 +1,12 @@
+G:\1° Examen\1° Examen\bin\Debug\1° Examen.exe.config
+G:\1° Examen\1° Examen\obj\Debug\1° Examen.csprojResolveAssemblyReference.cache
+G:\1° Examen\1° Examen\bin\Debug\1° Examen.exe
+G:\1° Examen\1° Examen\bin\Debug\1° Examen.pdb
+G:\1° Examen\1° Examen\obj\Debug\1° Examen.exe
+G:\1° Examen\1° Examen\obj\Debug\1° Examen.pdb
+C:\Users\Luis David\Pictures\1° Examen\1° Examen\bin\Debug\1° Examen.exe.config
+C:\Users\Luis David\Pictures\1° Examen\1° Examen\obj\Debug\1° Examen.exe
+C:\Users\Luis David\Pictures\1° Examen\1° Examen\obj\Debug\1° Examen.pdb
+C:\Users\Luis David\Pictures\1° Examen\1° Examen\bin\Debug\1° Examen.exe
+C:\Users\Luis David\Pictures\1° Examen\1° Examen\bin\Debug\1° Examen.pdb
+C:\Users\Luis David\Pictures\1° Examen\1° Examen\obj\Debug\1° Examen.csprojResolveAssemblyReference.cache
