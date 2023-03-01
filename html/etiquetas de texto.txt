@@ -1,0 +1,12 @@
+Etiqueta HTML <b>: Para texto en negrita.
+    Etiqueta HTML <em>: Para enfatizar texto.
+    Etiqueta HTML <i>: Para texto en cursiva.
+    Etiqueta HTML <u>: Para texto subrayado.
+    Etiqueta HTML <strong>: Para textos importantes.
+    Etiqueta HTML <big>: Texto grande.
+    Etiqueta HTML <small>: Para texto pequeño.
+    Etiqueta HTML <sub>: Para texto subíndice.
+    Etiqueta HTML <sup>: Para texto superíndice.
+    Etiqueta HTML <ins>: Para texto insertado.
+    Etiqueta HTML <del>: Para texto borrado.
+    Etiqueta HTML <mark>: Para texto marcado.
