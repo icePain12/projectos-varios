@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div id="elements">
+     
+  </div>
+</body>
+<script>
+ /*   lst=[{
+      name:"Hector",
+      age: 34
+    },{
+      name: "Francisco",
+      age: 40
+    }];
+    localStorage.setItem("list",JSON.stringify(lst)); */
+    
+    var mi_texto = document.getElementById("search").value;
+     
+    
+    //localStorage.setItem("miBusqueda",mi_texto);
+
+       
+    var mi_texto = document.getElementById("search").value;
+    
+
+    localStorage.setItem("miBusqueda",mi_texto);
+  
+    element.innerHTML =  localStorage.getItem("miBusqueda"); 
+
+    busquedas.push(mi_texto);
+    
+busquedas = [{
+   termino: "JAVA"
+    },
+    {
+        termino:"Pyhton"},
+    { 
+       termino:"Javascript"
+    }];
+
+     lst = JSON.parse(localStorage.getItem("list"));
+    lst.forEach(element => {
+       let elements = document.getElementById("elements");
+       let div = document.createElement("div");
+       div.innerHTML = element.name + " " + element.age;
+       elements.appendChild(div);
+    });
+
+</script>
+</html>
