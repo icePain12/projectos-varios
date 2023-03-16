@@ -1,0 +1,83 @@
+/* *  Este codigo pone el margen de los elementos en cero nos sirve para evitar que el navegador web aplique estilos por defecto * */
+*{
+  margin:0;
+  padding:0;
+}
+/* * Propiedades principales que aplicacaran a todo el contenido de la pagina (todo el body) * */
+/* * En este caso cambiamos el color de fondo de la pagina. * */
+body{
+  background-color: #ecc;
+}
+/* * Aquí estamos estableciendo que toda lista desordenada no va a tener estilo, es decir no apareceran los puntitos al lado de está, esto porque en está pagina toda imagen sera un elemento de una lista para tener mayor control sobre el contenido, por lo que los puntitos no son requeridos * */
+ul{
+  list-style: none;
+}
+/* * Este codigo corresponde a las propiedades de toda la caja del encabezado (header) establecemos que nuestro encabezado va a ocupar el 80% de ancho de la pagina y el 40% del alto, tendra un margen de 1 pixel en la parte de arriba, y del 10% en la izquierda, asi mismo sus elementos y su texto se centrará  * */
+header#header{
+   width:80%;
+   height: 40%;
+   margin-top:1%;
+   margin-left:10%;
+  /* border:2px solid red;¨*/
+  align-items: center;
+  text-align: center;
+}
+/* * Propiedades que aplicaran al título de nuestro documento* */
+/* *  la fuente será times new roman, estará en negrita, tendra un tamaño de 32 pixeles estará centrado y tendra un margen por debajo de 2% esto para que no se encuentre muy junto a los demas elementos por debajo de el * */
+#titulo{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size:32px;
+  text-align: center;
+  margin-bottom: 2%;
+}
+/* * Propiedades que aplicaran al elemento main con el id main, es decir, a nuestra caja principal, la cuál contendrá todo el contenido de nuestra pagina, a excepción del encabezado (header) y pie de pagina (footer) * */
+
+/* * El contenido principal tendra un alto del 44% un ancho del 90% margenes laterales de 10%  (5% a la izquierda y 5% a la derecha * */
+main#principal{
+   height:44%;
+   width: 90%;
+   margin-left:5%;
+   border:2px solid rgb(63, 4, 4);  
+}
+/* * Estas propiedades aplicaran a los elementos figurecaption, en este caso, se van a utilizar para darle formato al texto que va a describir nuestras imagenes gif * */
+figcaption {
+  font-size: 12px;
+  color: #666;
+  text-align:justify;
+  margin-left:25%;
+
+}
+/* * Propiedades que van a aplicarse a todos los elementos que tengan las clases imagenes_en_linea, o img_local, o img_pc de forma general * */
+.imagenes_en_linea, .img_local,.img_pc{
+   
+}
+/* * Propiedades que aplicaran a los elementos h2 que contengan la clase subtitulo, es decir, obviamente a nuestros subtitulos * */
+/* * en este caso el tamaño de los subtitulos seran de 26 pixeles, tendran una fuente Times New Roman y estarán centrados.  * */
+h2.subtitulo{
+  font-size:26px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.imagenes_en_linea img, .img_local img, .img_pc img{
+  width: 50%;
+  margin-left:25%;
+}
+.imagenes_en_linea:not(:first-child),
+.img_local:not(:first-child)
+{
+  margin-top: 5%;
+}
+
+footer#footer{
+   width:80%;
+   height: 40%;
+   margin-top:1%;
+   margin-left:10%;
+   font-family: Georgia, 'Times New Roman',Times, serif;
+   font-size:16px;
+   font-style: italic;
+   font-weight: 600;
+   text-align: center;
+}
