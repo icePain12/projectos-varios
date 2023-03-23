@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+    <header id="header">
+        <h1 id="titulo">Carousel de Imágenes.</h1>
+    </header>
+    <main id="principal">
+        <div class="carousel" id="carousel">
+        </div>
+    </main>
+    <footer id="pie"></footer>
+    <script>
+        var carousel = document.getElementById("carousel");
+
+        for (var i = 1; i <= 113; i++) {
+            var img = document.createElement("img");
+            img.src = "img/imagen" + i + ".png";
+            carousel.appendChild(img);
+        }
+    </script>
+</body>
+</html>

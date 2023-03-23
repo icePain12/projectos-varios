@@ -1,0 +1,53 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  background-color: lightgrey;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+
+}
+header#header{
+  margin-top:1%;
+  margin-left:10%;
+  width:80%;
+  height: 80px;
+ /* * border: 2px solid red; * */
+}
+#titulo{
+  font-size:36px;
+  text-align:center;
+  line-height:70px; 
+}
+main#principal{
+  margin-left:5%;
+  width:90%;
+  min-height: 400px;
+}
+.carousel {
+  margin: 0 auto;
+  margin-left:10%;
+  margin-top:15%;
+  height: 10%;
+  width: 80%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.carousel img {
+  display: inline-block;
+  width: 360px;
+  height: 220px;
+}
+
+@keyframes carouselAnimation {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-11300%); }
+}
+
+.carousel img {
+  animation: carouselAnimation 1130s infinite;
+}
+
+  
