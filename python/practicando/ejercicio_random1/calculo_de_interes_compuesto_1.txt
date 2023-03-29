@@ -1,0 +1,192 @@
+Para el periodo: 1
+El Capital Final es: $55247.07
+Pago Mínimo (Intereses): $2301.96
+Pago a Capital: $5000.0
+Pago para no generar intereses: $7301.96
+El Capital Final para el proximo periodo es: $47945.11 
+
+
+Para el periodo: 2
+El Capital Final es: $52976.05
+Pago Mínimo (Intereses): $2207.34
+Pago a Capital: $4794.51
+Pago para no generar intereses: $7001.85
+El Capital Final para el proximo periodo es: $45974.21 
+
+
+Para el periodo: 3
+El Capital Final es: $50797.84
+Pago Mínimo (Intereses): $2116.58
+Pago a Capital: $4597.42
+Pago para no generar intereses: $6714.0
+El Capital Final para el proximo periodo es: $44083.85 
+
+
+Para el periodo: 4
+El Capital Final es: $48708.62
+Pago Mínimo (Intereses): $2029.53
+Pago a Capital: $4408.38
+Pago para no generar intereses: $6437.91
+El Capital Final para el proximo periodo es: $42270.71 
+
+
+Para el periodo: 5
+El Capital Final es: $46704.72
+Pago Mínimo (Intereses): $1946.03
+Pago a Capital: $4227.07
+Pago para no generar intereses: $6173.1
+El Capital Final para el proximo periodo es: $40531.62 
+
+
+Para el periodo: 6
+El Capital Final es: $44782.62
+Pago Mínimo (Intereses): $1865.94
+Pago a Capital: $4053.16
+Pago para no generar intereses: $5919.1
+El Capital Final para el proximo periodo es: $38863.52 
+
+
+Para el periodo: 7
+El Capital Final es: $42938.95
+Pago Mínimo (Intereses): $1789.12
+Pago a Capital: $3886.35
+Pago para no generar intereses: $5675.47
+El Capital Final para el proximo periodo es: $37263.47 
+
+
+Para el periodo: 8
+El Capital Final es: $41170.44
+Pago Mínimo (Intereses): $1715.44
+Pago a Capital: $3726.35
+Pago para no generar intereses: $5441.78
+El Capital Final para el proximo periodo es: $35728.66 
+
+
+Para el periodo: 9
+El Capital Final es: $39473.99
+Pago Mínimo (Intereses): $1644.75
+Pago a Capital: $3572.87
+Pago para no generar intereses: $5217.62
+El Capital Final para el proximo periodo es: $34256.37 
+
+
+Para el periodo: 10
+El Capital Final es: $37846.59
+Pago Mínimo (Intereses): $1576.94
+Pago a Capital: $3425.64
+Pago para no generar intereses: $5002.58
+El Capital Final para el proximo periodo es: $32844.01 
+
+
+Para el periodo: 11
+El Capital Final es: $36285.34
+Pago Mínimo (Intereses): $1511.89
+Pago a Capital: $3284.4
+Pago para no generar intereses: $4796.29
+El Capital Final para el proximo periodo es: $31489.05 
+
+
+Para el periodo: 12
+El Capital Final es: $34787.47
+Pago Mínimo (Intereses): $1449.48
+Pago a Capital: $3148.91
+Pago para no generar intereses: $4598.38
+El Capital Final para el proximo periodo es: $30189.09 
+
+
+Para el periodo: 13
+El Capital Final es: $33350.28
+Pago Mínimo (Intereses): $1389.59
+Pago a Capital: $3018.91
+Pago para no generar intereses: $4408.5
+El Capital Final para el proximo periodo es: $28941.78 
+
+
+Para el periodo: 14
+El Capital Final es: $31971.16
+Pago Mínimo (Intereses): $1332.13
+Pago a Capital: $2894.18
+Pago para no generar intereses: $4226.31
+El Capital Final para el proximo periodo es: $27744.85 
+
+
+Para el periodo: 15
+El Capital Final es: $30647.58
+Pago Mínimo (Intereses): $1276.98
+Pago a Capital: $2774.49
+Pago para no generar intereses: $4051.47
+El Capital Final para el proximo periodo es: $26596.11 
+
+
+Para el periodo: 16
+El Capital Final es: $29377.04
+Pago Mínimo (Intereses): $1224.04
+Pago a Capital: $2659.61
+Pago para no generar intereses: $3883.65
+El Capital Final para el proximo periodo es: $25493.39 
+
+
+Para el periodo: 17
+El Capital Final es: $28157.09
+Pago Mínimo (Intereses): $1173.21
+Pago a Capital: $2549.34
+Pago para no generar intereses: $3722.55
+El Capital Final para el proximo periodo es: $24434.54 
+
+
+Para el periodo: 18
+El Capital Final es: $26985.24
+Pago Mínimo (Intereses): $1124.39
+Pago a Capital: $2443.45
+Pago para no generar intereses: $3567.84
+El Capital Final para el proximo periodo es: $23417.4 
+
+
+Para el periodo: 19
+El Capital Final es: $25858.91
+Pago Mínimo (Intereses): $1077.45
+Pago a Capital: $2341.74
+Pago para no generar intereses: $3419.2
+El Capital Final para el proximo periodo es: $22439.72 
+
+
+Para el periodo: 20
+El Capital Final es: $24775.26
+Pago Mínimo (Intereses): $1032.3
+Pago a Capital: $2243.97
+Pago para no generar intereses: $3276.27
+El Capital Final para el proximo periodo es: $21498.99 
+
+
+Para el periodo: 21
+El Capital Final es: $23730.86
+Pago Mínimo (Intereses): $988.79
+Pago a Capital: $2149.9
+Pago para no generar intereses: $3138.68
+El Capital Final para el proximo periodo es: $20592.17 
+
+
+Para el periodo: 22
+El Capital Final es: $22720.8
+Pago Mínimo (Intereses): $946.7
+Pago a Capital: $2059.22
+Pago para no generar intereses: $3005.92
+El Capital Final para el proximo periodo es: $19714.88 
+
+
+Para el periodo: 23
+El Capital Final es: $21735.65
+Pago Mínimo (Intereses): $905.65
+Pago a Capital: $1971.49
+Pago para no generar intereses: $2877.14
+El Capital Final para el proximo periodo es: $18858.51 
+
+
+Para el periodo: 24
+El Capital Final es: $20744.36
+Pago Mínimo (Intereses): $864.35
+Pago a Capital: $1885.85
+Pago para no generar intereses: $2750.2
+El Capital Final para el proximo periodo es: $17994.16 
+
+
